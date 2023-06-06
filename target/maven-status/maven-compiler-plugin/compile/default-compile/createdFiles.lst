@@ -1,0 +1,3 @@
+br\com\domain\models\admin.class
+br\com\domain\beans\beanHome.class
+br\com\domain\models\user.class
